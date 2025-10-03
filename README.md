@@ -1,4 +1,6 @@
-# Airbnb Price Prediction Project 🏠💰
+# AIRBNB HOTEL BOOKING ANALYSIS
+
+### Airbnb Price Prediction Project 🏠💰
 
 ## Overview
 This project develops a **machine learning regression model** to predict Airbnb listing prices. Pricing an Airbnb property correctly is crucial for hosts and travelers: hosts aim to maximize occupancy and earnings, while travelers want fair and competitive rates. Using historical Airbnb data, the model learns the relationships between listing attributes (e.g., bedrooms, bathrooms, guest ratings) and price, helping property owners make informed pricing decisions.
@@ -87,7 +89,7 @@ Certificates and project submission ensure completion and recognition of skills 
 
 **K Ranga Nitheesh Kumar Reddy**
 
-* Email: [krnkreddy2004.com](mailto:krnkreddy2004.com)
+* Email: [krnkreddy2004@gmail.com](mailto:krnkreddy2004@gmail.com)
 * LinkedIn: [linkedin.com/in/KrnkReddy](https://www.linkedin.com/in/krnkreddy/)
 * GitHub: [github.com/Krnkreddy](https://github.com/Krnkreddy)
 
