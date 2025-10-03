@@ -96,5 +96,3 @@ Certificates and project submission ensure completion and recognition of skills 
 ---
 
 **Project Status:** Completed ✅ | Internship Certified 🎓
-
-```
