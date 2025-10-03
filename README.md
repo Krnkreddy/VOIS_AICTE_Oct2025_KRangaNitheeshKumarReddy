@@ -42,8 +42,8 @@ Airbnb enables property owners to rent homes or apartments to travelers. A key c
 
 ## Files in the Repository
 - **Airbnb_Price_Prediction.ipynb** – Full Jupyter notebook with all EDA, cleaning, and ML steps  
-- **Certificates/** – Certificates gained from VOIS for Tech platform  
-- **Data/** – Original Airbnb dataset (Excel/CSV) used for the project  
+- **Certificates** – Certificates gained from VOIS for Tech platform  
+- **Data** – Original Airbnb dataset (Excel/CSV) used for the project  
 
 ---
 
