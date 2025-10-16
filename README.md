@@ -70,6 +70,10 @@ Certificates and project submission ensure completion and recognition of skills 
 
 ---
 
+**Project Status:** Completed ✅ | Internship Certified 🎓
+
+---
+
 ## How to Run
 1. Clone the repository:  
    ```
@@ -92,7 +96,3 @@ Certificates and project submission ensure completion and recognition of skills 
 * Email: [krnkreddy2004@gmail.com](mailto:krnkreddy2004@gmail.com)
 * LinkedIn: [linkedin.com/in/KrnkReddy](https://www.linkedin.com/in/krnkreddy/)
 * GitHub: [github.com/Krnkreddy](https://github.com/Krnkreddy)
-
----
-
-**Project Status:** Completed ✅ | Internship Certified 🎓
